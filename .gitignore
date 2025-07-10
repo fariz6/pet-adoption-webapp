@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+*.log
+*.sql
+/venv/
+/cgi-bin/config.py  # Exclude files with passwords
